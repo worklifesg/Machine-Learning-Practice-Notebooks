@@ -9,3 +9,4 @@ In this repository, some machine learning practice work is done to have basic un
   * Day 7 - [Decision Tree, Random Forest Classifier, AdaBoost](https://github.com/worklifesg/Machine-Learning-Practice-Notebooks/blob/master/Machine_Learning_20Sept2020.ipynb) [[Dataset-horse.csv](https://github.com/worklifesg/Machine-Learning-Practice-Notebooks/blob/master/horse.csv)]
   * Day 8 - [XGBoost, K-Fold Cross Validation, GridSearchCV](https://github.com/worklifesg/Machine-Learning-Practice-Notebooks/blob/master/Machine_Learning_22Sept2020.ipynb) 
   * Day 9 - [Feature Engineering - PCA/LDA ](https://github.com/worklifesg/Machine-Learning-Practice-Notebooks/blob/master/Machine_Learning_23Sept2020.ipynb) 
+  * Day 10 - [Recommendation system using cosine metric ](https://github.com/worklifesg/Machine-Learning-Practice-Notebooks/blob/master/Machine_Learning_27Sept2020.ipynb) [[Dataset](https://github.com/worklifesg/Machine-Learning-Practice-Notebooks/blob/master/ml-100k.zip)]
